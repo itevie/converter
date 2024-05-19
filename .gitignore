@@ -1,0 +1,4 @@
+build/
+files/
+node_modules/
+src/app/node_modules/

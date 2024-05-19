@@ -1,0 +1,22 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && electron ./build/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/handbrake-js": "^5.0.4",
+    "@types/uuid": "^9.0.8",
+    "electron": "^30.0.6",
+    "handbrake-js": "^7.0.0",
+    "typescript": "^5.4.5",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12"
+  }
+}
